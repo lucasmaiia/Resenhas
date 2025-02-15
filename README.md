@@ -7,3 +7,6 @@ Bem-vindo ao repositório de **Resenhas**. Aqui, você encontrará algumas de re
   - `README.md`: Uma resenha escrita com detalhes sobre o conteúdo, o público-alvo, pontos fortes e fracos, e recomendações de leitura.
   - `Resenha.pdf`: Conterá o conteúdo da resenha escrito em um PDF caso seja de seu interesse obter a resenha em outro tipo de arquivo.
   - Imagens ou gráficos (se necessário) que ilustrem pontos específicos do livro.
+
+#
+Espero que este repositório seja uma ferramenta útil para a comunidade de engenharia de software. Boa leitura!
