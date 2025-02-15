@@ -8,5 +8,5 @@ Bem-vindo ao repositório de **Resenhas**. Aqui, você encontrará algumas de re
   - `Resenha.pdf`: Conterá o conteúdo da resenha escrito em um PDF caso seja de seu interesse obter a resenha em outro tipo de arquivo.
   - Imagens ou gráficos (se necessário) que ilustrem pontos específicos do livro.
 
-#
+##Conclusão 
 Espero que este repositório seja uma ferramenta útil para a comunidade de engenharia de software. Boa leitura!
