@@ -2,23 +2,37 @@
 ## Introdução
 Nesta pasta do repositório, você encontrará pequenas resenhas dos **capítulos 5, 6, 7 e 9** do livro "Engenharia de Software Moderna" escrito por Marco Tulio Valente. O objetivo é fornecer uma visão geral e crítica desses capítulos específicos, ajudando a entender os conceitos e práticas discutidos.
 
-## Capítulos Resenhados
+# Capítulos Resenhados
 
-# Capítulo 5: Princípios de Projeto
+## Capítulo 6: Padrões de Projeto
 
-### Temas Abordados:
-- **Integridade Conceitual**: Explica como um design coerente melhora a compreensão e manutenção do software.
-- **Ocultamento de Informação**: Aborda a importância de esconder detalhes implementacionais para promover a modularidade.
-- **Coesão**: Discute como a coesão alta torna os módulos mais fáceis de entender e modificar.
-- **Acoplamento**: Foca em reduzir a dependência entre módulos para aumentar a flexibilidade e manutenibilidade do sistema.
-- **Princípios de Projeto**: Inclui:
-  - Responsabilidade Única
-  - Segregação de Interfaces
-  - Inversão de Dependências
-  - Preferência pela Composição sobre Herança
-  - Princípio de Demeter
-  - Princípio Aberto/Fechado
-  - Substituição de Liskov
-- **Métricas de Projeto**: Explora como medir coesão, acoplamento, e complexidade para avaliar a qualidade do design.
-### Resumo:
-O Capítulo 5 de "Engenharia de Software Moderna" de Marco Tulio Valente oferece uma visão abrangente dos princípios que devem guiar o projeto de software. Ele inicia com a definição de projeto como uma atividade que combina criatividade e engenharia, destacando a necessidade de um design que anteveja funcionalidade, manutenção e evolução. Valente detalha as propriedades essenciais do bom projeto, como integridade conceitual, ocultamento de informação, alta coesão e baixo acoplamento, explicando como cada uma contribui para um sistema mais robusto e escalável. Ele passa então para uma discussão detalhada sobre vários princípios de projeto, oferecendo exemplos e implicações práticas de cada um. O capítulo também introduz métricas para avaliar a qualidade do design, incentivando o uso de ferramentas e técnicas para melhorar continuamente a arquitetura do software. A mensagem principal é que um bom projeto não é estático mas um processo contínuo que deve se adaptar às necessidades e desafios do desenvolvimento de software ao longo do tempo.
+### Temas Abordados
+
+- **Introdução aos Padrões de Projeto:** Soluções reutilizáveis para problemas comuns em software.
+- **Vantagens:** Criação de um vocabulário comum entre desenvolvedores.
+- **Uso Adequado:** Alerta contra o uso excessivo de padrões.
+
+**Padrões Criacionais:**
+- **Fábrica:** Gerenciamento flexível da criação de objetos.
+- **Singleton:** Garantia de uma única instância de uma classe.
+
+**Padrões Estruturais:**
+- **Proxy:** Controle de acesso a objetos.
+- **Adaptador:** Integração de interfaces incompatíveis.
+- **Fachada:** Simplificação do acesso a sistemas complexos.
+- **Decorador:** Adição de funcionalidades sem alterar a estrutura.
+
+**Padrões Comportamentais:**
+- **Strategy:** Suporte a múltiplos algoritmos para uma tarefa.
+- **Observador:** Notificação de mudanças de estado.
+- **Template Method:** Execução parcialmente fixa, parcialmente customizável.
+- **Visitor:** Adição de novas operações a estruturas complexas.
+
+**Outros Padrões:**
+- Breve menção a padrões como Builder, Chain of Responsibility, Iterator e State.
+
+## Resumo
+
+O capítulo 6 do livro "Engenharia de Software Moderna" explora os padrões de projeto, destacando sua utilidade e riscos. Ele detalha diferentes tipos de padrões, como criacionais, estruturais e comportamentais, oferecendo exemplos práticos e contextos de aplicação. O texto enfatiza a importância de usar padrões de maneira criteriosa, evitando a complexidade desnecessária e promovendo a flexibilidade e a manutenção do software.
+
+# 
